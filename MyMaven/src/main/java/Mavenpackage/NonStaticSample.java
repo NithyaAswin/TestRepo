@@ -5,9 +5,9 @@ public class NonStaticSample {
     {
 	System.out.println("This is an instance method");
     }
-    public char div(String name,char p)
+    public char div(String nam,char p)
     {
-    	System.out.println(name);
+    	System.out.println(nam);
     	//System.out.println(p);
     	return p;
     }
